@@ -89,21 +89,3 @@ body {
   div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img {
     width: 100%;
   }
-  
-  .imagetiles {
-    background-color: white;
-  }
-  div.imagetiles div.col-lg-6.col-sm-12 img {
-    width: 100%;
-  }
-  
-  div.col-sm-12.col-md-12 p {
-    color: black;
-    font-size: medium;
-  }
-  
-  .panel-body:hover {
-    border-color: blueviolet;
-    border-radius: 50px;
-  }
-  
